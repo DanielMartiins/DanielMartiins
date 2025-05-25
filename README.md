@@ -5,13 +5,21 @@
 - 🎓 Atualmente cursando o 5° Período do curso de Bacharelado em Sistemas de Informação na UNIRIO
 
 ## 🚀 Habilidades
+- Linguagens de programação
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,html,css,javascript,scss)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,javascript)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+- Desenvolvimento Web
+
+  [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,vue,scss)](https://skillicons.dev)
+
+- Banco de dados
+
+  [![My Skills](https://skillicons.dev/icons?i=postgresql,mysql)](https://skillicons.dev)
+
+
 ## ⚙️ Ferramentas:
-[![My Skills](https://skillicons.dev/icons?i=github,visualstudio,vscode,idea)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=github,visualstudio,vscode,idea,docker)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 [![Linkedin: Daniel Martins](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-martins-b63baa326/)](https://www.linkedin.com/in/daniel-martins-b63baa326/)
