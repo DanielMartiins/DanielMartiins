@@ -11,7 +11,7 @@
 
 - Desenvolvimento Web
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,vue,scss)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,nodejs,vue,scss)](https://skillicons.dev)
 
 - Banco de dados
 
