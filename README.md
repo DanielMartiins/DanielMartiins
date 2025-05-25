@@ -4,7 +4,7 @@
 - 👨‍💻 Gosto de Programação Competitiva
 - 🎓 Atualmente cursando o 5° Período do curso de Bacharelado em Sistemas de Informação na UNIRIO
 
-## 🚀 Habilidades
+## 🚀 Tecnologias
 - Linguagens de programação
 
   [![My Skills](https://skillicons.dev/icons?i=java,cpp,c,python,javascript)](https://skillicons.dev)
