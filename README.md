@@ -2,7 +2,7 @@
 
 - 💻 Estudante de Programação
 - 👨‍💻 Gosto de Programação Competitiva
-- 🎓 Atualmente cursando o 5° Período do curso de Bacharelado em Sistemas de Informação na UNIRIO
+- 🎓 Atualmente cursando o 6° Período do curso de Bacharelado em Sistemas de Informação na UNIRIO
 
 ## 🚀 Tecnologias
 - Linguagens de programação
